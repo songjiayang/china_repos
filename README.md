@@ -10,3 +10,7 @@ github repo 爬虫。
 ## 导出数据如图：
 
 ![example.png](https://user-images.githubusercontent.com/1459834/75106271-90d04a80-5655-11ea-90d7-82bfe0b975cd.png)
+
+## 感谢
+
+- [PuerkitoBio/goquery](github.com/PuerkitoBio/goquery)
